@@ -1,8 +1,0 @@
-# inside Programming-student- repo
-cd languages
-git pull origin main   # get the latest changes in submodule
-
-cd ..
-git add languages
-git commit -m "Update submodule languages to latest commit"
-git push origin master
